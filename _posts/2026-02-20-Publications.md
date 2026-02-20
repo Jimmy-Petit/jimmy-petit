@@ -1,5 +1,5 @@
 ---
-title: "Publications list"
+title: "Publications"
 date: 2026-02-10
 ---
 
