@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
 
   <!-- LEFT SIDE (TEXT) -->
   <div style="flex: 1; min-width: 300px;">
