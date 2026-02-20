@@ -6,7 +6,7 @@ date: 2026-02-10
 ## International Journals
 
 * **Jimmy Petit**, Stefan K. Ehrlich, Garrett Tougas, Jacob M. Bernstein, Nicole E. Buie, and Kristina Simonyan.
-  **Impact of Audio-Visual Complexity on Symptomatology of Laryngeal Dystonia: A Virtual Reality Study.**
+  Impact of Audio-Visual Complexity on Symptomatology of Laryngeal Dystonia: A Virtual Reality Study.
   *The Laryngoscope*, 135: 787–793 (Oct. 2024).
   DOI: [https://doi.org/10.1002/lary.31800](https://doi.org/10.1002/lary.31800)
 
