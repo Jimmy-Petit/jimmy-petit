@@ -14,7 +14,7 @@ title: Home
   </div>
 
   <!-- RIGHT SIDE (PHOTO) -->
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0; text-align: center;">
     <img src="{{ site.baseurl }}/content/me_original.jpeg"
          alt="Jimmy Petit"
          style="width: 250px; border-radius: 12px;">
