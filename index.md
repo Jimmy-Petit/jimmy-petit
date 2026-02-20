@@ -29,8 +29,8 @@ Throughout my research experiences, from my PhD to my postdoctoral work, I have 
 -->
 
 ### Find here my:
-* [Publications]({{ site.baseurl }}{% post_url 2026-02-20-Publications %})
-* [CV]({{ site.baseurl }}{% post_url 2026-02-20-CV %})
+#### [Publications]({{ site.baseurl }}{% post_url 2026-02-20-Publications %})
+#### [CV]({{ site.baseurl }}{% post_url 2026-02-20-CV %})
 
 <!--
 Automatically recreat a list with all the posts:
