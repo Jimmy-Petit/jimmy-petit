@@ -13,6 +13,7 @@ Throughout my research experiences, from my PhD to my postdoctoral work, I have 
 
 Automatically recreat a list with all the posts:
 
+<!--
 <ul>
 {% for post in site.posts %}
   <li>
@@ -22,7 +23,7 @@ Automatically recreat a list with all the posts:
   </li>
 {% endfor %}
 </ul>
-
+-->
 
 <!--
 **Jimmy-Petit/jimmy-petit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
