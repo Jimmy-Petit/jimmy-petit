@@ -15,10 +15,10 @@ title: Home
 
   <!-- RIGHT SIDE (PHOTO) -->
   <div style="flex-shrink: 0; text-align: center;">
-    <img src="{{ site.baseurl }}/content/me_original.jpeg"
-         alt="Jimmy Petit"
-         style="width: 250px; border-radius: 12px;">
     <div style="text-align: right;">
+      <img src="{{ site.baseurl }}/content/me_original.jpeg"
+           alt="Jimmy Petit"
+           style="width: 250px; border-radius: 12px;">
       <p>
         <strong>Jimmy Petit</strong><br>
         Brain–Computer Interfaces Researcher<br>
