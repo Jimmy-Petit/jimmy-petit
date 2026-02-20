@@ -18,6 +18,16 @@ title: Home
     <img src="{{ site.baseurl }}/content/me_original.jpeg"
          alt="Jimmy Petit"
          style="width: 250px; border-radius: 12px;">
+    <p>
+      <strong>Jimmy Petit</strong><br>
+      Brain–Computer Interfaces Researcher<br>
+      <a href="https://scholar.google.fr/citations?user=avkbBEgAAAAJ&hl=fr&oi=ao" target="_blank">
+        Google Scholar
+      </a><br>
+      <a href="https://www.researchgate.net/profile/Jimmy-Petit-2" target="_blank">
+        ResearchGate
+      </a>
+    </p>
   </div>
 
 </div>
@@ -31,6 +41,8 @@ Throughout my research experiences, from my PhD to my postdoctoral work, I have 
 ### Find here my:
 * #### [Publications]({{ site.baseurl }}{% post_url 2026-02-20-Publications %})
 * #### [CV]({{ site.baseurl }}{% post_url 2026-02-20-CV %})
+
+
 
 <!--
 Automatically recreat a list with all the posts:
