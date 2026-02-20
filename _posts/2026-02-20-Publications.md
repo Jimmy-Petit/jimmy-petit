@@ -3,8 +3,7 @@ title: "Publications"
 date: 2026-02-10
 ---
 
-> **Authorship convention:** In my research community, the first author contributed most substantially to the work, while the last author typically supervised the project.
----
+# Publications list:
 
 ## International Journals
 
