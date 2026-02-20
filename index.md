@@ -11,9 +11,9 @@ Throughout my research experiences, from my PhD to my postdoctoral work, I have 
 
 ### [CV]({{ site.baseurl }}{% post_url 2026-02-20-CV %})
 
+<!--
 Automatically recreat a list with all the posts:
 
-<!--
 <ul>
 {% for post in site.posts %}
   <li>
