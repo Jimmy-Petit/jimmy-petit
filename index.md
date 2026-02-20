@@ -18,16 +18,18 @@ title: Home
     <img src="{{ site.baseurl }}/content/me_original.jpeg"
          alt="Jimmy Petit"
          style="width: 250px; border-radius: 12px;">
-    <p>
-      <strong>Jimmy Petit</strong><br>
-      Brain–Computer Interfaces Researcher<br>
-      <a href="https://scholar.google.fr/citations?user=avkbBEgAAAAJ&hl=fr&oi=ao" target="_blank">
-        Google Scholar
-      </a><br>
-      <a href="https://www.researchgate.net/profile/Jimmy-Petit-2" target="_blank">
-        ResearchGate
-      </a>
-    </p>
+    <div style="text-align: right;">
+      <p>
+        <strong>Jimmy Petit</strong><br>
+        Brain–Computer Interfaces Researcher<br>
+        <a href="https://scholar.google.fr/citations?user=avkbBEgAAAAJ&hl=fr&oi=ao" target="_blank">
+          Google Scholar
+        </a><br>
+        <a href="https://www.researchgate.net/profile/Jimmy-Petit-2" target="_blank">
+          ResearchGate
+        </a>
+      </p>
+    </div>
   </div>
 
 </div>
