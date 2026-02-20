@@ -22,7 +22,7 @@ date: 2026-02-20
 
 ---
 
-## Reviewed International Conferences
+## Peer-Reviewed International Conferences
 
 * *Adaptive Closed-Loop Neurofeedback Brain-Computer Interface for Treatment of Laryngeal Dystonia.* <br>
   **Jimmy Petit**, Stefan K. Ehrlich, Garrett Tougas, Jacob M. Bernstein, Nicole E. Buie and Kristina Simonyan.
