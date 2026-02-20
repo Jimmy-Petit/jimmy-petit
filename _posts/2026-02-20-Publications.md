@@ -89,3 +89,10 @@ date: 2026-02-10
   Jimmy Petit
 
 ---
+
+## PhD Manuscript
+
+* *Somatosensory Gating for Brain-Computer Interfaces using Vibro-Tactile Stimulations*
+  — Defended 6th of December 2022, Jimmy Petit. URL: [https://theses.fr/2022ULILB051](https://theses.fr/2022ULILB051). [\[Download\]]({{ site.baseurl }}/content/PhD_Manuscript.pdf)
+
+---
