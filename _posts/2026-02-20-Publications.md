@@ -1,9 +1,7 @@
 ---
-title: "Publications"
+title: "Publications list"
 date: 2026-02-10
 ---
-
-# Publications list:
 
 ## International Journals
 
