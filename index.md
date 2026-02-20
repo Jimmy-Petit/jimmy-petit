@@ -7,6 +7,13 @@ title: Home
 
 Throughout my research experiences, from my PhD to my postdoctoral work, I have focused on developing methods to personalise brain-computer interfaces (BCIs) to improve their usability and acceptability. In my current postdoctoral position at CNRS, I develop intelligent tutoring systems designed to adapt BCI learning based on users’ brain activity and behaviour. During my postdoctoral research at Harvard Medical School, I evaluated individualised neurofeedback protocols in a clinical setting. During my PhD at the University of Lille, I worked on reactive BCIs, developing personalised methods for adapting stimulation parameters and covering the full interaction loop, from EEG signal processing to system usability assessment.
 
+%%% [Publications]({% post_url 2026-02-20-Publications %})
+
+%%% [CV]({% post_url 2026-02-20-CV %})
+
+<!--
+Automatically recreat a list with all the posts:
+
 <ul>
 {% for post in site.posts %}
   <li>
@@ -16,6 +23,7 @@ Throughout my research experiences, from my PhD to my postdoctoral work, I have 
   </li>
 {% endfor %}
 </ul>
+-->
 
 <!--
 **Jimmy-Petit/jimmy-petit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
