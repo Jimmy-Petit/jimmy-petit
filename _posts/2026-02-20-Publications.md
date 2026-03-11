@@ -84,7 +84,7 @@ date: 2026-02-20
   **[POTIOC Team](https://team.inria.fr/potioc/fr/), Inria centre at the University of Bordeaux** — 28 Jan. 2026.
   Jimmy Petit
 
-* *Adaptive Closed-Loop Neurofeedback Brain-Computer Interface for Treatment of Laryngeal Dystonia.* <br>
+* *Neurofeedback BCI training for LD patients.* <br>
   **[BrainGate](https://www.braingate.org/), Harvard University and Mass General Brigham** — 15 Apr. 2025.
   Jimmy Petit
 
