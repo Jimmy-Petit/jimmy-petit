@@ -24,6 +24,11 @@ date: 2026-02-20
 
 ## Peer-Reviewed International Conferences
 
+* *BCI-based Intelligent Tutoring Systems: A Literature Review and Meta-Analysis on Neuroadaptive ITS* <br>
+  **Jimmy Petit**, Marc Macé, Anatole Lécuyer, and Léa Pillette.
+   *10th Graz BCI Conference 2026*, 14-17 September 2026, Graz, Austria.
+   DOI: Soon [\[Download\]]({{ site.baseurl }}/content/Neuroadaptive_ITS_Graz.pdf)
+
 * *Adaptive Closed-Loop Neurofeedback Brain-Computer Interface for Treatment of Laryngeal Dystonia.* <br>
   **Jimmy Petit**, Stefan K. Ehrlich, Garrett Tougas, Jacob M. Bernstein, Nicole E. Buie and Kristina Simonyan.
    *2025 BCI Meeting*, 2–5 June 2025, Banff, Canada.
@@ -38,7 +43,7 @@ date: 2026-02-20
 
 * *Recording the SSSEP with the cEEGrid.* <br>
   **Jimmy Petit**, Matthias Eidel†, José Rouillard, and Andrea Kübler.
-   *9th Graz Brain-Computer Interface Conference 2024*, 11 Sept. 2024, Graz, Austria.
+   *9th Graz BCI Conference 2024*, 11 Sept. 2024, Graz, Austria.
    DOI: [http://doi.org/10.3217/978-3-99161-014-4-021](http://doi.org/10.3217/978-3-99161-014-4-021) [\[Download\]]({{ site.baseurl }}/content/Recording_Graz.pdf)
    *(Selected for oral presentation. † Speaker.)*
 
