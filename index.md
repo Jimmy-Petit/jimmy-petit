@@ -41,6 +41,7 @@ Throughout my research experiences, from my PhD to my postdoctoral work, I have 
 -->
 
 ### Find here my:
+* #### [CuttingGardensEEG 2026 Workshop - Würzburg]({{ site.baseurl }}{% post_url 2026-09-25-Workshop %})
 * #### [Publications]({{ site.baseurl }}{% post_url 2026-02-20-Publications %})
 * #### [CV]({{ site.baseurl }}{% post_url 2026-02-20-CV %})
 
