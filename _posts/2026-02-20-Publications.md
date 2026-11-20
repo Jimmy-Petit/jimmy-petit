@@ -29,14 +29,14 @@ date: 2026-02-20
   *10th Graz BCI Conference 2026*, 14-17 September 2026, Graz, Austria.
   DOI: [http://doi.org/10.3217/978-3-99161-093-9-036](http://doi.org/10.3217/978-3-99161-093-9-036) [\[Download\]]({{ site.baseurl }}/content/Thermal_Imagery.pdf)
   HAL: [https://univ-grenoble-alpes.hal.science/SEQUOIA/hal-05666291v1](https://univ-grenoble-alpes.hal.science/SEQUOIA/hal-05666291v1)
-  *(Article and Selected for oral presentation.)*
+  *(Paper and Selected for oral presentation.)*
 
 * *BCI-based Intelligent Tutoring Systems: A Literature Review and Meta-Analysis on Neuroadaptive ITS* <br>
   **Jimmy Petit**, Marc Macé, Anatole Lécuyer, and Léa Pillette.
    *10th Graz BCI Conference 2026*, 14-17 September 2026, Graz, Austria.
    DOI: [http://doi.org/10.3217/978-3-99161-093-9-048](http://doi.org/10.3217/978-3-99161-093-9-048) [\[Download\]]({{ site.baseurl }}/content/Neuroadaptive_ITS_Graz.pdf)
    HAL: [https://hal.science/hal-05605114v1](https://hal.science/hal-05605114v1)
-   *(Article and Poster)*
+   *(Paper and Poster)*
 
 * *Adaptive Closed-Loop Neurofeedback Brain-Computer Interface for Treatment of Laryngeal Dystonia.* <br>
   **Jimmy Petit**, Stefan K. Ehrlich, Garrett Tougas, Jacob M. Bernstein, Nicole E. Buie and Kristina Simonyan.
@@ -54,13 +54,13 @@ date: 2026-02-20
   **Jimmy Petit**, Matthias Eidel†, José Rouillard, and Andrea Kübler.
    *9th Graz BCI Conference 2024*, 11 Sept. 2024, Graz, Austria.
    DOI: [http://doi.org/10.3217/978-3-99161-014-4-021](http://doi.org/10.3217/978-3-99161-014-4-021) [\[Download\]]({{ site.baseurl }}/content/Recording_Graz.pdf)
-   *(Article and Selected for oral presentation. † Speaker.)*
+   *(Paper and Selected for oral presentation. † Speaker.)*
 
 * *Design and study of two applications controlled by a Brain–Computer Interface exploiting Steady-State Somatosensory-Evoked Potentials.* <br>
   **Jimmy Petit**, José Rouillard, and François Cabestaing.
    *Human Interaction & Emerging Technologies (IHIET 2022): Artificial Intelligence & Future Applications*, Vol. 68 (2022).
    DOI: [https://doi.org/10.54941/ahfe1002787](https://doi.org/10.54941/ahfe1002787) [\[Download\]]({{ site.baseurl }}/content/Design_IHIET.pdf)
-   *(Article and oral presentation.)*
+   *(Paper and oral presentation.)*
 
 ---
 
