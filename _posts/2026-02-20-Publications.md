@@ -24,10 +24,19 @@ date: 2026-02-20
 
 ## Peer-Reviewed International Conferences
 
+* *Towards thermal imagery-based brain-computer interfaces.* <br>
+  Tristan Lefeuvre, Elise Savalle, **Jimmy Petit**, Marc Macé, Anatole Lécuyer, and Léa Pillette.
+  *10th Graz BCI Conference 2026*, 14-17 September 2026, Graz, Austria.
+  DOI: [http://doi.org/10.3217/978-3-99161-093-9-036](http://doi.org/10.3217/978-3-99161-093-9-036) [\[Download\]]({{ site.baseurl }}/content/Thermal_Imagery.pdf)
+  HAL: [https://univ-grenoble-alpes.hal.science/SEQUOIA/hal-05666291v1](https://univ-grenoble-alpes.hal.science/SEQUOIA/hal-05666291v1)
+  *(Selected for oral presentation.)*
+
 * *BCI-based Intelligent Tutoring Systems: A Literature Review and Meta-Analysis on Neuroadaptive ITS* <br>
   **Jimmy Petit**, Marc Macé, Anatole Lécuyer, and Léa Pillette.
    *10th Graz BCI Conference 2026*, 14-17 September 2026, Graz, Austria.
-   DOI: Soon [\[Download\]]({{ site.baseurl }}/content/Neuroadaptive_ITS_Graz.pdf)
+   DOI: [http://doi.org/10.3217/978-3-99161-093-9-048](http://doi.org/10.3217/978-3-99161-093-9-048) [\[Download\]]({{ site.baseurl }}/content/Neuroadaptive_ITS_Graz.pdf)
+   HAL: [https://hal.science/hal-05605114v1](https://hal.science/hal-05605114v1)
+   *(Poster)*
 
 * *Adaptive Closed-Loop Neurofeedback Brain-Computer Interface for Treatment of Laryngeal Dystonia.* <br>
   **Jimmy Petit**, Stefan K. Ehrlich, Garrett Tougas, Jacob M. Bernstein, Nicole E. Buie and Kristina Simonyan.
@@ -37,7 +46,7 @@ date: 2026-02-20
 
 * *Impact of Surrounding Audio-Visual Complexity on Symptomatology of Laryngeal Dystonia: A Virtual Reality Study.* <br>
   **Jimmy Petit**, Stefan K. Ehrlich, Garrett Tougas, Jacob M. Bernstein, Nicole E. Buie and Kristina Simonyan.
-  *International Congress of Parkinson and Movement Disorder Society*, Mov Disord. 2024; 39 (Suppl. 1).
+  *International Congress of Parkinson and Movement Disorder Society*, 30 Sept. 2024, Philadelphia, USA. Mov Disord. 2024; 39 (Suppl. 1).
   URL: [https://www.mdsabstracts.org/abstract/impact-of-surrounding-audio-visual-complexity-on-symptomatology-of-laryngeal-dystonia-a-virtual-reality-study/](https://www.mdsabstracts.org/abstract/impact-of-surrounding-audio-visual-complexity-on-symptomatology-of-laryngeal-dystonia-a-virtual-reality-study/)
   *(Poster)*
 
@@ -57,6 +66,18 @@ date: 2026-02-20
 
 ## Peer-Reviewed National Conferences
 
+* *Neuroadaptive ITS: A Literature Review and Meta-Analysis.* <br>
+  **Jimmy Petit**, Marc Macé, Anatole Lécuyer, and Léa Pillette.
+  *CORTICO Day 2026 – 8th edition*, Lille, France, May 2026.
+  HAL: [https://hal.science/hal-05642247](https://hal.science/hal-05642247) [\[Download\]]({{ site.baseurl }}/content/Neuroadaptive_ITS_CORTICO.pdf)
+  *(Poster)*
+
+* *Rhythmic Passive Movement Training for Finger Kinesthetic Motor Imagery.* <br>
+  Tristan Lefeuvre, Elise Savalle, **Jimmy Petit**†, Marc Macé, Anatole Lécuyer, and Léa Pillette.
+  *CORTICO Day 2026 – 8th edition*, Lille, France, May 2026.
+  HAL: [https://hal.science/hal-05642229](https://hal.science/hal-05642229) [\[Download\]]({{ site.baseurl }}/content/Rhythmic_Passive_Movement.pdf)
+  *(Poster, † Presenter)*
+  
 * *Recording Somatosensory Steady-State Evoked Potentials with the cEEGrid Compact EEG.* <br>
   **Jimmy Petit**, José Rouillard, François Cabestaing, Andrea Kübler, and Matthias Eidel†.
   *Psychology and the Brain 50th Annual Conference*, Würzburg, Germany, Oct. 2022.
@@ -83,7 +104,13 @@ date: 2026-02-20
 
 ---
 
-## Invited Seminar
+## Invited Seminar and Workshop
+
+* *The Filter Menace – CuttingGarden 2026.* <br>
+  **University of Würzburg, Würzburg, Germany** — 21 Sept. 2026.
+  Jimmy Petit
+  *(Invited workshop, 1h30. The workshop focused on fundamental EEG preprocessing tools as well as new tools, and especially explored their underlying assumptions and costs. I presented EEG filtering and discussed its potential impact on signals.)*
+  URL: [https://jimmy-petit.github.io/jimmy-petit/2026/09/25/Workshop.html](https://jimmy-petit.github.io/jimmy-petit/2026/09/25/Workshop.html)
 
 * *Adaptive User-Centred Brain-Computer Interface.* <br>
   **[POTIOC Team](https://team.inria.fr/potioc/fr/), Inria centre at the University of Bordeaux** — 28 Jan. 2026.
